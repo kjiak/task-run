@@ -1,0 +1,13 @@
+C:\Users\kjiak\source\repos\task-run\task-run\bin\Debug\netcoreapp3.1\task-run.exe
+C:\Users\kjiak\source\repos\task-run\task-run\bin\Debug\netcoreapp3.1\task-run.deps.json
+C:\Users\kjiak\source\repos\task-run\task-run\bin\Debug\netcoreapp3.1\task-run.runtimeconfig.json
+C:\Users\kjiak\source\repos\task-run\task-run\bin\Debug\netcoreapp3.1\task-run.runtimeconfig.dev.json
+C:\Users\kjiak\source\repos\task-run\task-run\bin\Debug\netcoreapp3.1\task-run.dll
+C:\Users\kjiak\source\repos\task-run\task-run\bin\Debug\netcoreapp3.1\task-run.pdb
+C:\Users\kjiak\source\repos\task-run\task-run\obj\Debug\netcoreapp3.1\task-run.csprojAssemblyReference.cache
+C:\Users\kjiak\source\repos\task-run\task-run\obj\Debug\netcoreapp3.1\task-run.AssemblyInfoInputs.cache
+C:\Users\kjiak\source\repos\task-run\task-run\obj\Debug\netcoreapp3.1\task-run.AssemblyInfo.cs
+C:\Users\kjiak\source\repos\task-run\task-run\obj\Debug\netcoreapp3.1\task-run.csproj.CoreCompileInputs.cache
+C:\Users\kjiak\source\repos\task-run\task-run\obj\Debug\netcoreapp3.1\task-run.dll
+C:\Users\kjiak\source\repos\task-run\task-run\obj\Debug\netcoreapp3.1\task-run.pdb
+C:\Users\kjiak\source\repos\task-run\task-run\obj\Debug\netcoreapp3.1\task-run.genruntimeconfig.cache

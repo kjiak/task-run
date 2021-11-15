@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kjiak\\source\\repos\\task-run\\task-run\\task-run\\task-run.csproj": {}
+    "C:\\Users\\kjiak\\source\\repos\\task-run\\task-run\\task-run.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kjiak\\source\\repos\\task-run\\task-run\\task-run\\task-run.csproj": {
+    "C:\\Users\\kjiak\\source\\repos\\task-run\\task-run\\task-run.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kjiak\\source\\repos\\task-run\\task-run\\task-run\\task-run.csproj",
+        "projectUniqueName": "C:\\Users\\kjiak\\source\\repos\\task-run\\task-run\\task-run.csproj",
         "projectName": "task-run",
-        "projectPath": "C:\\Users\\kjiak\\source\\repos\\task-run\\task-run\\task-run\\task-run.csproj",
+        "projectPath": "C:\\Users\\kjiak\\source\\repos\\task-run\\task-run\\task-run.csproj",
         "packagesPath": "C:\\Users\\kjiak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kjiak\\source\\repos\\task-run\\task-run\\task-run\\obj\\",
+        "outputPath": "C:\\Users\\kjiak\\source\\repos\\task-run\\task-run\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kjiak\\AppData\\Roaming\\NuGet\\NuGet.Config",
